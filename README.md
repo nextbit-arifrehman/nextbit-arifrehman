@@ -15,7 +15,7 @@ I'm Arif Rehman, a passionate and self-motivated frontend developer with a love 
 ### 🔭 Current Activities
 
 - 🔍 Exploring **Next.js** and server-side rendering.
-- 🌍 Building a full-stack **tourism website**.
+- 🌍 Building a full-stack **Realtime website**.
 - 🚀 Improving my backend skills with **Node.js** and **MongoDB**.
 - 🧠 Learning better **system design** and **clean code practices**.
 
