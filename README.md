@@ -1,8 +1,8 @@
 <!-- Banner -->
 <img src="https://your-banner-url.com/banner.png" alt="Banner" style="width:100%; border-radius: 10px;"/>
 
-<h1 align="center">Hi 👋, I'm Arif Rehman</h1>
-<h3 align="center">Frontend Developer | React | Tailwind | Firebase</h3>
+<h1 align="center"> I'm Arif Rehman</h1>
+<h3 align="center">Frontend Developer Skilled in React, Tailwind CSS & Firebase | Experienced with Node.js, Express & MongoDB
 
 ---
 
