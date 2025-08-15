@@ -70,7 +70,7 @@ I'm Arif Rehman, a passionate and self-motivated frontend developer with a love 
 
 <br/>
  <h3 align="center">🌐 Connect with Me</h3>
-<br/>                                                         ### 🌐 Connect with Me
+<br/>                                                      
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nextbit-arifrehman" target="_blank">
