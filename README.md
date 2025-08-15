@@ -68,7 +68,9 @@ I'm Arif Rehman, a passionate and self-motivated frontend developer with a love 
 
 ---
 
-                                                             ### 🌐 Connect with Me
+<br/>
+ <h3 align="center">🌐 Connect with Me</h3>
+<br/>                                                         ### 🌐 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nextbit-arifrehman" target="_blank">
@@ -96,9 +98,9 @@ I'm Arif Rehman, a passionate and self-motivated frontend developer with a love 
 
 
   ---
-
-                                                              ### 📊 GitHub Stats
-
+</br>
+<h3 align="center"> 📊 GitHub Stats</h3>                                                     
+</br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextbit-arifrehman&layout=compact&theme=yeblu" width="32%" alt="Top Langs" />
   <img width="1%" />
