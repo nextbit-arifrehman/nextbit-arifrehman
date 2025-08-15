@@ -77,17 +77,13 @@ I'm Arif Rehman, a passionate and self-motivated frontend developer with a love 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nextbit-arifrehman&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nextbit-arifrehman&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextbit-arifrehman&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextbit-arifrehman&layout=compact&theme=yeblu" width="32%" alt="Top Langs" />
+  <img width="1%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nextbit-arifrehman&theme=outrun" width="32%" alt="GitHub streak stats" />
+  <img width="1%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nextbit-arifrehman&show_icons=true&count_private=true&theme=outrun" width="32%" alt="GitHub stats" />
+</div>
 
 ---
 
