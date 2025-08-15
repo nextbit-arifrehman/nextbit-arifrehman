@@ -58,7 +58,7 @@ I'm Arif Rehman, a passionate and self-motivated frontend developer with a love 
 <br/>
  <h3 align="center">🛠 Languages & Tools (Familiar)</h3>
 <br/>
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="20" alt="nextjs logo" />
   <img width="0" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="20" alt="figma logo" />
