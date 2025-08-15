@@ -10,6 +10,7 @@
 
 I'm Arif Rehman, a passionate and self-motivated frontend developer with a love for building modern, responsive, and user-friendly web applications. I enjoy learning new technologies, solving real-world problems, and turning ideas into code.
 
+
 ---
 
 ### 🔭 Current Activities
@@ -47,17 +48,30 @@ I'm Arif Rehman, a passionate and self-motivated frontend developer with a love 
 
 ### 🌐 Connect with Me
 
-<p>
-  <a href="https://github.com/nextbit-arifrehman" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<div align="center">
   <a href="https://www.linkedin.com/in/nextbit-arifrehman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo" />
+  </a>
+  <a href="https://twitter.com/demo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo" />
+  </a>
+  <a href="https://www.facebook.com/demo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo" />
+  </a>
+  <a href="https://discord.com/channels/@demo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo" />
+  </a>
+  <a href="https://wa.me/00000000000" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="whatsapp logo" />
   </a>
   <a href="mailto:arifrahman.nft@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo" />
   </a>
-</p>
+  <a href="https://www.hackerrank.com/demo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="hackerrank logo" />
+  </a>
+</div>
+
 
 ---
 
