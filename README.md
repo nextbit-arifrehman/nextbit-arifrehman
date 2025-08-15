@@ -23,7 +23,7 @@ I'm Arif Rehman, a passionate and self-motivated frontend developer with a love 
 ---
 <h3 align="center">🛠 Languages & Tools (Proficient)</h3>
 <br/>
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="20" alt="javascript logo" />
   <img width="0" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="20" alt="nodejs logo" />
