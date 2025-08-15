@@ -21,8 +21,7 @@ I'm Arif Rehman, a passionate and self-motivated frontend developer with a love 
 - 🧠 Learning better **system design** and **clean code practices**.
 
 ---
-
-                                            <h3 align="left">🛠 Languages & Tools (Proficient)</h3>
+<h3 align="center">🛠 Languages & Tools (Proficient)</h3>
 <br/>
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="20" alt="javascript logo" />
@@ -57,8 +56,7 @@ I'm Arif Rehman, a passionate and self-motivated frontend developer with a love 
 </div>
 
 <br/>
-
-                                             <h3 align="left">🛠 Languages & Tools (Familiar)</h3>
+ <h3 align="center">🛠 Languages & Tools (Familiar)</h3>
 <br/>
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="20" alt="nextjs logo" />
